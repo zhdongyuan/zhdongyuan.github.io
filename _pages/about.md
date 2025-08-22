@@ -32,7 +32,7 @@ My research interests primarily revolve around computer vision, agricultural eng
 - *2023-2025* Some piecemeal mathematical modeling and scholarship awards.
 
 # 📖 Educations
-- *2023.06 - now*, Master, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
+- *2023.09 - now*, Master, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
 - *2019.09 - 2023.06*, Undergraduate, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
 
 # 💬 Invited Talks
