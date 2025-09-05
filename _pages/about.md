@@ -29,7 +29,7 @@ My research interests primarily revolve around computer vision, agricultural eng
 
 - ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) Dongyuan Zhang, **Qiusheng Li***, Xindi Yuan
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2025*: ✈️The Second Prize in **the Jiangxi Postgraduate Mathematical Contest in Modeling**.
 - *2025*: ✈️The Third Prize in **the sixth "HuaShu Cup" National Mathematical Contest in Modeling (Graduate Division)**.
 - *2025*: ✈️The Third Prize in **the 2025 APMCM Asia-Pacific Mathematical Contest in Modeling (Graduate Division)**.
