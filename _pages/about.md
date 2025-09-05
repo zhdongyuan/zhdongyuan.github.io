@@ -22,7 +22,7 @@ My research interests primarily revolve around computer vision, agricultural eng
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉 [My first paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) has been successfully accepted. Everyone is welcome to cite it.
+- *2025.09*: &nbsp;🎉🎉 [My first paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) has been successfully accepted by EAAI. Everyone is welcome to cite it.
 - *2025.08*: &nbsp;🎉🎉 I designed my own academic homepage, and the template is from the great [Renyi](https://github.com/RayeRen/acad-homepage.github.io). 
 
 # 📝 Publications 
