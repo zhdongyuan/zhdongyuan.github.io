@@ -22,14 +22,22 @@ My research interests primarily revolve around computer vision, agricultural eng
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 [My first paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) has been successfully accepted. Everyone is welcome to cite it.
 - *2025.08*: &nbsp;🎉🎉 I designed my own academic homepage, and the template is from the great [Renyi](https://github.com/RayeRen/acad-homepage.github.io). 
 
 # 📝 Publications 
 
-- I currently do not have any relevant publications, but I am still working hard.
+- ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) Dongyuan Zhang, **Qiusheng Li***, Xindi Yuan
 
 # 🎖 Honors and Awards
-- *2023-2025* Some piecemeal mathematical modeling and scholarship awards.
+- *2025*: ✈️The Second Prize in **the Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2025*: ✈️The Third Prize in **the sixth "HuaShu Cup" National Mathematical Contest in Modeling (Graduate Division)**.
+- *2025*: ✈️The Third Prize in **the 2025 APMCM Asia-Pacific Mathematical Contest in Modeling (Graduate Division)**.
+- *2025*: ✈️The Third Prize in **the 20th China Postgraduate Electronic Design Contest (Huazhong Sub-region)**.
+- *2025*: ✈️The Third Prize in **the 15th MathorCup Mathematical Application Challenge (Graduate Division)**.
+- *2025*: ✈️The Outstanding Prize in **the 3rd "HuaShu Cup" International Mathematical Contest in Modeling (Graduate Division)**.
+- *2024*: ✈️The Third Prize in **the 5th MathorCup Mathematical Application Challenge - Big Data Contest (Graduate Division)**.
+- *2024*: ✈️The “Outstanding Presentation Award” at **the Gannan Normal University Graduate Academic Annual Conference and the 9th Graduate Academic Forum**.
 
 # 📖 Educations
 - *2023.09 - now*, Master, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
