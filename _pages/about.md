@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 ## Hi there 👋
-My research interests primarily revolve around computer vision, agricultural engineering, and large language models such as GPT. Currently, my research is focused on object recognition under complex weather conditions. I am actively engaged in optimizing models and improving their structural design to enhance detection performance. Through my efforts, I aim to propose novel models that can better adapt to challenging weather scenarios, thereby significantly improving the robustness and accuracy of object detection systems. My ultimate goal is to develop innovative solutions that can be effectively applied in real-world scenarios, particularly in the fields of agriculture and environmental monitoring.
+My research interests primarily revolve around computer vision, agricultural engineering, and large language models such as GPT. Currently, my research is focused on object recognition under complex weather conditions. I am actively engaged in optimizing models and improving their structural design to enhance detection performance. Through my efforts, I aim to propose novel models that can better adapt to challenging weather scenarios, thereby significantly improving the robustness and accuracy of object detection systems. My ultimate goal is to develop innovative solutions that can be effectively applied in real-world scenarios, particularly in the fields of agriculture and environmental monitoring. [中文文档](./_pages/about-zh.md) 
 
 # 🔥 News
 
