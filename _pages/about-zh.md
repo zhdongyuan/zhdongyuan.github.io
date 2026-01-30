@@ -30,7 +30,7 @@ redirect_from:
 - ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) **Dongyuan Zhang**, Qiusheng Li*, Xindi Yuan
 
 # 🥇 Honors and Awards
-- *2026*: ✈️第四届“华数杯”国际数学建模竞赛（研究生组）一等奖
+- *2026*: ✈️第四届“华数杯”国际数学建模竞赛一等奖
 - *2025*: ✈️赣南师范大学研究生学术年会暨第十届研究生学术论坛“优秀学术论文奖”
 - *2025*: ✈️江西省研究生数学建模竞赛二等奖
 - *2025*: ✈️第六届“华数杯”全国数学建模竞赛（研究生组）三等奖
