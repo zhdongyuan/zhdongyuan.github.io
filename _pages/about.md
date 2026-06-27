@@ -26,7 +26,16 @@ My research interests primarily revolve around computer vision, agricultural eng
 - *2025.08*: &nbsp;🎉🎉 I designed my own academic homepage, and the template is from the great [Renyi](https://github.com/RayeRen/acad-homepage.github.io). 
 
 # 📝 Publications 
+## 📃 Papers
 
+- **Submitting......**
+
+### ✨✨✨**中文期刊**
+- **Submitting......**
+
+### ✨✨✨**SCI and EI**
+
+- ``Next Research 2026`` &nbsp;🎉🎉 [DFCDet: Integrating physical priors with deep learning for fog-resistant navel orange maturity recognition](https://doi.org/10.1016/j.nexres.2026.102034) **Dongyuan Zhang**, Qiusheng Li*
 - ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) **Dongyuan Zhang**, Qiusheng Li*, Xindi Yuan
 
 # 🥇 Honors and Awards
@@ -41,7 +50,7 @@ My research interests primarily revolve around computer vision, agricultural eng
 - *2024*: ✈️The “Outstanding Presentation Award” at **the Gannan Normal University Graduate Academic Annual Conference and the 9th Graduate Academic Forum**.
 
 # 📖 Educations
-- *2023.09 - now*, Master, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
+- *2023.09 - 2026.06*, Master, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
 - *2019.09 - 2023.06*, Undergraduate, [Gannan Normal University](https://www.gnnu.edu.cn/), Ganzhou.
 
 # 💬 Invited Talks
