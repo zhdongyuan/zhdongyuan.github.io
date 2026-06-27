@@ -36,7 +36,7 @@ My research interests primarily revolve around computer vision, agricultural eng
 ### ✨✨✨**SCI and EI**
 
 - ``Next Research 2026`` &nbsp;🎉🎉 [DFCDet: Integrating physical priors with deep learning for fog-resistant navel orange maturity recognition](https://doi.org/10.1016/j.nexres.2026.102034) **Dongyuan Zhang**, Qiusheng Li*
-- ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) **Dongyuan Zhang**, Qiusheng Li*, Xindi Yuan
+- ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://doi.org/10.1016/j.engappai.2025.112157) **Dongyuan Zhang**, Qiusheng Li*, Xindi Yuan
 
 # 🥇 Honors and Awards
 - *2026*: ✈️The First Prize in **the fourth "HuaShu Cup" International Mathematical Contest in Modeling (Graduate Division)**.
